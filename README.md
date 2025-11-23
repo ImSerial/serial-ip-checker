@@ -1,3 +1,2 @@
 # serial-ip-checker
-
-ce petit code vous permet d'obtenir toutes les informations reliée à une ip
+Ce petit code en python vous permet en toute simplicité de scanner votre ip à vous ou bien une ip random ! 🐍
